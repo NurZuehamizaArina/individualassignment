@@ -1,0 +1,60 @@
+body{
+    background-image:url(546067.jpg)
+}
+a{
+   background-color: aliceblue; 
+    margin-left: 1cm;
+     color: black;
+     font-size: 100%;
+ }
+table{
+    margin-top: 2cm;
+    margin-left: 8in;
+   
+    width: 5in;
+}
+tr{
+    margin-left: 0.15in;
+    width: 1in; 
+    
+}
+ a:hover{
+   color: rgb(207, 142, 118);
+   cursor:grabbing;
+   background-color: honeydew;  
+ }
+ img{
+     height: 500px;
+     border-color: honeydew;
+     border-style: solid;
+ }
+ header{
+     font-family: Arial;
+     font-size: 100px;
+     color: honeydew;
+ }
+ h3{
+     font-stretch: expanded;
+     border-style: solid;
+     border-color: honeydew;
+     font-family: 'Langar', Tahoma;
+     font-size: 250%;
+     color: whitesmoke;
+ }
+ h2{
+    border-style: solid;
+    border-color: honeydew;
+    font-family: 'Langar', Tahoma;
+    font-size: 150%;
+    color: wheat;
+ }
+ h4{
+    font-family: 'Langar', Tahoma;
+    font-size: 150%;
+    color: wheat; 
+}
+h5{
+    font-family: Brush Script MT;
+    font-size: 300%;
+    color: honeydew;
+}
